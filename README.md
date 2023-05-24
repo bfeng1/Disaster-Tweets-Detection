@@ -56,3 +56,9 @@ This data has been released under the Open Data Commons Public Domain Dedication
 1. In the terminal, run ```python src/main.py```
 2. Follow the instruction on the terminal, give user inputs
 3. Please note, retrain the model might take a while. If you just want to try it out, you can use the pretrained model instead.
+
+
+### Model Performance
+
+![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/0278fd02-112d-4203-b304-3a22106308ba)
+
