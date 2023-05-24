@@ -30,3 +30,28 @@ This data has been released under the Open Data Commons Public Domain Dedication
 3. If you want to use a pretrained model, you can download it in [My Drive Folder](https://drive.google.com/file/d/1THGVUlYhKefu7PYCtCidepm75Pm8aRCL/view?usp=sharing)  
 4. Make sure you structure the project folder as following:
 
+.
+├── Data
+│   ├── glove-global-vectors-for-word-representation
+│   │   └── glove.6B.200d.txt
+│   └── nlp-getting-started
+│       ├── test.csv
+│       └── train.csv
+├── my_model
+│   ├── assets
+│   ├── fingerprint.pb
+│   ├── keras_metadata.pb
+│   ├── saved_model.pb
+│   └── variables
+│       ├── variables.data-00000-of-00001
+│       └── variables.index
+├── my_model.zip
+├── requirements.txt
+└── src
+    └── main.py
+
+### Use Case
+
+1. In the terminal, run ```python src/main.py```
+2. Follow the instruction on the terminal, give user inputs
+3. Please note, retrain the model might take a while. If you just want to try it out, you can use the pretrained model instead.
