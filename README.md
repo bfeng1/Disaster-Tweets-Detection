@@ -29,4 +29,4 @@ This data has been released under the Open Data Commons Public Domain Dedication
 2. Download [GloVe: Global Vectors for Word Representation](https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representation)
 3. If you want to use a pretrained model, you can download it in [My Drive Folder](https://drive.google.com/file/d/1THGVUlYhKefu7PYCtCidepm75Pm8aRCL/view?usp=sharing)  
 4. Make sure you structure the project folder as following:
-5. 
+
