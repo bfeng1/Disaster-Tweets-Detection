@@ -1,7 +1,7 @@
 # Disaster-Tweets-Detection
 
 ## Objectives
-The main objective for this project is to use NLP technics and build deep learning model to identify tweets about disasters using given trianing data. 
+The main objective for this project is to use NLP technics and build deep learning model to identify tweets about disasters using given trianing data. In this project, I used a deep learning model with LSTM (long short-term memory) networks to achieve a high accuracy model.
 
 ## Data
 
