@@ -59,6 +59,7 @@ This data has been released under the Open Data Commons Public Domain Dedication
 
 
 ### Model Performance
+![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/36d287b7-f5d5-4bc8-a686-fa7ac39748b6)
+![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/3e94f7d1-4651-47ea-9387-1d20ec26bbdd)
 
-![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/0278fd02-112d-4203-b304-3a22106308ba)
 
