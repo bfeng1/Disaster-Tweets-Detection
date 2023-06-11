@@ -62,4 +62,8 @@ This data has been released under the Open Data Commons Public Domain Dedication
 ![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/36d287b7-f5d5-4bc8-a686-fa7ac39748b6)
 ![image](https://github.com/bfeng1/Disaster-Tweets-Detection/assets/65517574/3e94f7d1-4651-47ea-9387-1d20ec26bbdd)
 
+### Additional Info
+* [Kaggle Project Link](https://www.kaggle.com/code/binfeng2021/nlp-with-disaster-tweets)
+* [Author LinkedIn Bin Feng](https://www.linkedin.com/in/bfeng1/)
+
 
